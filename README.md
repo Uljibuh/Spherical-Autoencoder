@@ -49,5 +49,5 @@ def encode(self, x):
 
 Here is the learned $S^2$ manifold latent space, demonstrating how the $L_2$ normalization constrains the digit clusters to a spherical geometry:
 
-<img width="800" height="800" alt="spherical_latent_space" src="https://github.com/user-attachments/assets/64f353aa-1749-441d-8317-40b54ab40d6e" />
+<img width="800" height="800" alt="black_spherical_latent_space (1)" src="https://github.com/user-attachments/assets/19291d18-4f98-449e-a3eb-19962ee64360" />
 
